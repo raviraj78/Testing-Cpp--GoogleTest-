@@ -1,0 +1,5 @@
+add_test( ProviderTest.loginUser [==[/mnt/c/Users/40038384/OneDrive - LTTS/Desktop/Gtest/build/your_tests]==] [==[--gtest_filter=ProviderTest.loginUser]==] --gtest_also_run_disabled_tests)
+set_tests_properties( ProviderTest.loginUser PROPERTIES WORKING_DIRECTORY [==[/mnt/c/Users/40038384/OneDrive - LTTS/Desktop/Gtest/build]==] SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test( ProviderTest.registerUser [==[/mnt/c/Users/40038384/OneDrive - LTTS/Desktop/Gtest/build/your_tests]==] [==[--gtest_filter=ProviderTest.registerUser]==] --gtest_also_run_disabled_tests)
+set_tests_properties( ProviderTest.registerUser PROPERTIES WORKING_DIRECTORY [==[/mnt/c/Users/40038384/OneDrive - LTTS/Desktop/Gtest/build]==] SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+set( your_tests_TESTS ProviderTest.loginUser ProviderTest.registerUser)

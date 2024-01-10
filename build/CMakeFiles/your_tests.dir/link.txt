@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/your_tests.dir/tests/test_provider.cpp.o CMakeFiles/your_tests.dir/src/provider.cpp.o -o your_tests  -lgtest -lgtest_main -lgmock -lgmock_main 

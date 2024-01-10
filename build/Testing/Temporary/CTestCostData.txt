@@ -1,0 +1,4 @@
+ProviderTest.loginUser 4 0.0201827
+ProviderTest.registerUser 4 0.0074621
+your_tests 4 0.0081124
+---

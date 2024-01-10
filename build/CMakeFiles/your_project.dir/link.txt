@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/your_project.dir/src/main.cpp.o CMakeFiles/your_project.dir/src/provider.cpp.o CMakeFiles/your_project.dir/src/user.cpp.o CMakeFiles/your_project.dir/src/client.cpp.o CMakeFiles/your_project.dir/src/server.cpp.o -o your_project 

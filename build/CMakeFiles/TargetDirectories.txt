@@ -1,0 +1,5 @@
+/mnt/c/Users/40038384/OneDrive - LTTS/Desktop/Gtest/build/CMakeFiles/your_project.dir
+/mnt/c/Users/40038384/OneDrive - LTTS/Desktop/Gtest/build/CMakeFiles/your_tests.dir
+/mnt/c/Users/40038384/OneDrive - LTTS/Desktop/Gtest/build/CMakeFiles/test.dir
+/mnt/c/Users/40038384/OneDrive - LTTS/Desktop/Gtest/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/40038384/OneDrive - LTTS/Desktop/Gtest/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,85 @@
+Start testing: Jan 10 17:59 IST
+----------------------------------------------------------
+1/3 Testing: ProviderTest.loginUser
+1/3 Test: ProviderTest.loginUser
+Command: "/mnt/c/Users/40038384/OneDrive - LTTS/Desktop/Gtest/build/your_tests" "--gtest_filter=ProviderTest.loginUser" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/40038384/OneDrive - LTTS/Desktop/Gtest/build
+"ProviderTest.loginUser" start time: Jan 10 17:59 IST
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = ProviderTest.loginUser
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ProviderTest
+[ RUN      ] ProviderTest.loginUser
+[       OK ] ProviderTest.loginUser (9 ms)
+[----------] 1 test from ProviderTest (9 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (9 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Passed.
+"ProviderTest.loginUser" end time: Jan 10 17:59 IST
+"ProviderTest.loginUser" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/3 Testing: ProviderTest.registerUser
+2/3 Test: ProviderTest.registerUser
+Command: "/mnt/c/Users/40038384/OneDrive - LTTS/Desktop/Gtest/build/your_tests" "--gtest_filter=ProviderTest.registerUser" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/40038384/OneDrive - LTTS/Desktop/Gtest/build
+"ProviderTest.registerUser" start time: Jan 10 17:59 IST
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = ProviderTest.registerUser
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ProviderTest
+[ RUN      ] ProviderTest.registerUser
+[       OK ] ProviderTest.registerUser (0 ms)
+[----------] 1 test from ProviderTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"ProviderTest.registerUser" end time: Jan 10 17:59 IST
+"ProviderTest.registerUser" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/3 Testing: your_tests
+3/3 Test: your_tests
+Command: "/mnt/c/Users/40038384/OneDrive - LTTS/Desktop/Gtest/build/your_tests"
+Directory: /mnt/c/Users/40038384/OneDrive - LTTS/Desktop/Gtest/build
+"your_tests" start time: Jan 10 17:59 IST
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+[==========] Running 2 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 2 tests from ProviderTest
+[ RUN      ] ProviderTest.loginUser
+[       OK ] ProviderTest.loginUser (10 ms)
+[ RUN      ] ProviderTest.registerUser
+[       OK ] ProviderTest.registerUser (0 ms)
+[----------] 2 tests from ProviderTest (10 ms total)
+
+[----------] Global test environment tear-down
+[==========] 2 tests from 1 test suite ran. (10 ms total)
+[  PASSED  ] 2 tests.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"your_tests" end time: Jan 10 17:59 IST
+"your_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jan 10 17:59 IST
